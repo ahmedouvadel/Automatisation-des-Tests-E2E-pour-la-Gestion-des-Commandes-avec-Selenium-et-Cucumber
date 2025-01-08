@@ -37,5 +37,7 @@ public class LogoutPage {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+
     }
 }
